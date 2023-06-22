@@ -8,7 +8,8 @@ from sqlalchemy.orm import relationship
 
 
 class Amenity(BaseModel, Base):
-    """Represents an Amenity for a MySQL database.
+    """ 
+    Represents an Amenity for a MySQL database.
 
     Inherits from SQLAlchemy Base and links to the MySQL table amenities.
 
