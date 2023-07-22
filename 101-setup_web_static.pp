@@ -1,4 +1,3 @@
-# Configures a web server for deployment of web_static.
 # Puppet for setup
 
 $nginx_conf = "server {
@@ -12,7 +11,7 @@ $nginx_conf = "server {
         index index.html index.htm;
     }
     location /redirect_me {
-        return 301 http://linktr.ee/opius2007/;
+        return 301 http://linktr.ee/firdaus_h_salim/;
     }
     error_page 404 /404.html;
     location /404 {

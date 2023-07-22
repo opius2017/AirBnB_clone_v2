@@ -1,8 +1,3 @@
-<!-- # AirBnB_clone_v2
-<p align="center">
-  <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
-</p> -->
-
 <center> <h1>HBNB - The Console</h1> </center>
 
 <img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step2.png" width="1200" height="280">
@@ -147,8 +142,3 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 (hbnb) ["[User] (98bea5de-9cb0-4d78-8a9d-c4de03521c30) {'updated_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134362), 'name': 'Fred the Frog', 'age': 9, 'id': '98bea5de-9cb0-4d78-8a9d-c4de03521c30', 'created_at': datetime.datetime(2020, 2, 19, 21, 47, 29, 134343)}"]
 ```
 <br>
-
-## Authors
-
-+ [PIUS OWOLABI](https://github.com/opius2017)
-+ [UDO INNOCENT CHARLES](https://github.com/Innocentsax)
